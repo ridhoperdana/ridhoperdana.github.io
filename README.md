@@ -1,1 +1,0 @@
-# ridhoperdana.github.io
