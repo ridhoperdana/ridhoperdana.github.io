@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e2bdbf-011a-4d9c-91e3-9ccdd3ab7deb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-25-how-to-undo-your-git-failure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-09-what-is-version-control.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-17-do-not-go-gentle-into-that-good-night.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-23-a-better-hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-01-github-flow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-09-four-lessons-after-eleven-years-in-silicon-valley.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-01-what-the-heck-is-a-callback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-10-clean-coding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-learn-react-js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-20-digital-minimalism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
