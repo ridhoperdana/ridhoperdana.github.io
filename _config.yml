@@ -1,34 +1,84 @@
-title: Ridho Perdana's Work
-email: ridhoperdana@ymail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A little showcase of my work(s)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://ridho.work # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cync48
-github_username:  ridhoperdana
+### Site Settings ###
+title               : Ridho Perdana's Work(s)
+description         : >-
+                      Love to solve problems. Build things from the back side.
+baseurl             : ""
+repository          : ridhoperdana/ridhoperdana.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
 
-# Build settings
-#theme: minima
-remote_theme: YoussefRaafatNasry/portfolYOU
+
+### Plugins ###
 plugins:
-  - jekyll-feed
+  - jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+
+
+### Author Info ###
+author:
+  name              : Ridho Perdana
+  image             : https://user-images.githubusercontent.com/13913371/91270081-4b2a4100-e7a2-11ea-94d6-44f486a485b2.jpg
+  dribbble          : cync48
+  email             : ridhoperdana@ymail.com
+  github            : ridhoperdana
+  instagram         : cync
+  linkedin          : Ridho Perdana
+  medium            : cync.perdana
+# twitch            : your_username
+  twitter           : cync48
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+#  projects:
+#    output: true
+#    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus: ridhoperdana
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
