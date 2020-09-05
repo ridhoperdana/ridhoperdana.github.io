@@ -5,6 +5,7 @@ weight: 1
 remote_projects:
   - edompet
   - tomgos
+  - brove
 ---
 
 {% include projects/index.html %}
