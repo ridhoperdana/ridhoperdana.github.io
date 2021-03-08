@@ -6,6 +6,7 @@ remote_projects:
   - edompet
   - tomgos
   - brove
+  - bagaul
 ---
 
 {% include projects/index.html %}

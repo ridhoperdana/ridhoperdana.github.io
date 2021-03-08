@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e9e2bdbf-011a-4d9c-91e3-9ccdd3ab7deb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +37,5 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="708" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598432618478">
-      <screen x="0" y="23" width="1920" height="1013" />
-    </state>
-    <state x="708" y="338" key="#com.intellij.fileTypes.FileTypeChooser/1920.397.1440.877/0.23.1920.1013@0.23.1920.1013" timestamp="1598432618478" />
-    <state x="659" y="282" width="602" height="490" key="find.popup" timestamp="1606527595490">
-      <screen x="0" y="25" width="1920" height="1005" />
-    </state>
-    <state x="659" y="282" width="602" height="490" key="find.popup/0.25.1920.1005@0.25.1920.1005" timestamp="1606527595490" />
   </component>
 </project>
